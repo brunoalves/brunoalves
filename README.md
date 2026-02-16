@@ -95,7 +95,9 @@ These are patterns I use in production daily:
 ## Education
 
 📚 **Computer Science** — Universidade Gama Filho (2001–2005)
+
 📚 **Technical Program** — CEFET-RJ (1991–1996)
+
 📷 **Photography** — Estácio
 
 ---
