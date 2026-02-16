@@ -1,36 +1,117 @@
-<h1 align="center">Hi 👋, I'm Bruno Alves</h1>
-<h3 align="center">Full Stack developer with 30+ hands on experience, and Online Marketer with 20+ years of experience</h3>
+# Bruno Alves
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoalves&label=Profile%20views&color=0e75b6&style=flat" alt="brunoalves" /> </p>
+**Full-Stack Software Architect · Web3 · AI · Growth**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoalves" alt="brunoalves" /></a> </p>
+27+ years shipping software — 120+ projects across 7 organizations
 
-<p align="left"> <a href="https://twitter.com/brunoalves" target="blank"><img src="https://img.shields.io/twitter/follow/brunoalves?logo=twitter&style=for-the-badge" alt="brunoalves" /></a> </p>
+São Paulo, Brazil
 
--   📝 I regularly write articles on
-    [https://brunoalves.eti.br/](https://brunoalves.eti.br/)
+---
 
--   📫 How to reach me **contato@brunoalves.eti.br**
+## About
 
--   📄 Know about my experiences
-    [https://linkedin.com/in/brunoalvesseo](https://linkedin.com/in/brunoalvesseo)
+I build products and I know how to make people find them.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/brunoalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brunoalves" height="30" width="40" /></a>
-<a href="https://twitter.com/brunoalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunoalves" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brunoalvesseo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunoalvesseo" height="30" width="40" /></a>
-<a href="https://fb.com/brunoalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunoalves" height="30" width="40" /></a>
-<a href="https://instagram.com/balvesrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balvesrj" height="30" width="40" /></a>
-</p>
+Since the late '90s I've worked at the intersection of software engineering and digital growth. I write code, architect systems, lead teams — and I deeply understand SEO, paid media, and user acquisition. That combination is rare, and it's what I bring to every project.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" > <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-line.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" alt="Go" height='40' width='40'> </p>
+- **10 years in operations** at Souza Cruz (BAT) — systems thinking and planning at industrial scale before transitioning fully to tech.
+- **8.5 years at Globo.com** — Product Development Manager for Brazil's largest media portal. Led SEO strategy and organic growth for one of the highest-traffic properties in Latin America.
+- **17+ years as founder** — Running my own consultancy and building products: from SEO tools and e-commerce platforms to blockchain apps and AI-powered SaaS.
+- **CTO @ CoinShopp** · **CTO @ PubTech** · **CEO @ Agency ROE**
 
-<br />
-<br />
-<br />
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoalves&show_icons=true&locale=en" alt="brunoalves" /></p>
-<br /><br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoalves&" alt="brunoalves" /></p>
+---
+
+## Tech Stack
+
+```
+Languages        TypeScript · JavaScript · PHP · Python · Go · Solidity · SQL · Bash
+Frontend         Next.js (12→16) · React (17→19) · Astro · Tailwind · shadcn/ui · Radix UI
+                 Three.js · React Three Fiber · Framer Motion
+Mobile           React Native + Expo · FlutterFlow
+Backend          NestJS · Express · Next.js API/Server Actions · Laravel · Symfony · Django/DRF
+Data             PostgreSQL · MySQL · MongoDB · Redis · SQLite · Firebase · Supabase · Prisma · TypeORM
+Web3             Solidity · Hardhat · Ethers.js · Thirdweb · OpenZeppelin · Multi-chain (ETH/Polygon/BSC)
+AI               OpenAI API · Vercel AI SDK · LLM Agents · Prompt Engineering · AI Video Generation
+Cloud            AWS · GCP · Azure
+Deploy           Vercel · Netlify · Railway · Render · Coolify · Docker
+Infrastructure   Linux Admin (DNS · Firewall · Nginx · Apache · LiteSpeed · Mail · DB · PHP-FPM · PM2)
+DevOps           Docker · GitHub Actions · Turborepo · CI/CD · Self-hosted Infra
+Testing          Vitest · Jest · Playwright · Cypress · Storybook · Supertest
+Growth           SEO · Google Ads · Meta Ads · TikTok Ads · LinkedIn Ads · X Ads · Analytics
+```
+
+---
+
+## What I Build
+
+🏢 **Multi-Tenant SaaS Platforms**
+Complex RBAC, tenant isolation, audit logging, background jobs, real-time updates. Production systems with paying customers. Turborepo monorepos with 7+ apps and shared packages.
+
+🔗 **Web3 & Blockchain Applications**
+NFT marketplaces, token trading platforms, crypto payment systems, DeFi integrations. 15+ blockchain projects with custom Solidity smart contracts across Ethereum, Polygon, and BSC.
+
+🤖 **AI-Powered Products**
+Content generation platforms, AI video creation (Dark Channel Creator), LLM agent workflows. Shipping AI products to market with OpenAI, Vercel AI SDK, and custom pipelines.
+
+🛒 **E-Commerce & Marketplaces**
+Crypto + traditional payments, inventory management, multi-currency support. Full checkout-to-fulfillment systems.
+
+🎨 **3D & Creative Web Experiences**
+Interactive portfolios and immersive interfaces with Three.js, React Three Fiber, and Framer Motion.
+
+📈 **SEO & Growth Engineering**
+Technical SEO at scale (Globo.com — millions of daily users), paid media across all major platforms, conversion optimization, and analytics.
+
+---
+
+## Architecture & Patterns
+
+These are patterns I use in production daily:
+
+- **Monorepo architecture** — Turborepo + PNPM workspaces, shared configs, atomic deploys
+- **Multi-tenant data isolation** — Row-level filtering, soft deletes, audit trails
+- **API-first design** — Next.js API Routes / Express with JWT auth, rate limiting
+- **Hybrid Web3** — On-chain assets + off-chain app data, backend syncing blockchain state
+- **Containerized deployments** — Multi-stage Docker builds, health checks, zero-downtime
+- **Background processing** — Inngest for async workflows, event-driven architecture
+- **SSR/SSG/ISR** — Next.js rendering strategies optimized per use case
+
+---
+
+## Career
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2022–Present | CTO / CMO | PubTech |
+| 2021–Present | CTO | CoinShopp |
+| 2017–Present | CEO / CTO | Agency ROE |
+| 2009–2017 | Product Development Manager | Globo.com |
+| 2008–Present | Founder | Bruno Alves Consultoria |
+| 2008–2009 | Online Marketing Coordinator | UOL |
+| 2019–2020 | Online Marketing Manager | Lemoney |
+| 2020 | Media Specialist | Ubook |
+| 1998–2007 | Production Planning Coordinator | Souza Cruz (BAT) |
+
+## Education
+
+📚 **Computer Science** — Universidade Gama Filho (2001–2005)
+📚 **Technical Program** — CEFET-RJ (1991–1996)
+📷 **Photography** — Estácio
+
+---
+
+## What Makes Me Different
+
+Most developers don't understand distribution. Most marketers can't build the product.
+
+I do both. When I build a SaaS, I'm thinking about the database schema AND the keyword strategy. When I optimize a client's funnel, I can refactor the codebase myself instead of filing a ticket.
+
+120+ private repositories. All production code, all real business. Ask me about any of them.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunoalvesseo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/brunoalvesseo)
+[![Website](https://img.shields.io/badge/Website-brunoalves.eti.br-000?style=flat&logo=google-chrome)](https://brunoalves.eti.br)
+[![Email](https://img.shields.io/badge/Email-brunowl@gmail.com-EA4335?style=flat&logo=gmail)](mailto:brunowl@gmail.com)
